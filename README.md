@@ -24,6 +24,10 @@ Hi there! I'm a career changer who has completed a Level 4 Full Stack Developer 
 
 I am passionate about web development, particularly in building robust and scalable applications using JavaScript, Node.js, React, and MongoDB. I have experience with CI/CD pipelines, and cloud deployments using Azure.
 
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-gunn-a582ba23b/)
+
 ## Current Projects
 
 I am about to start on an exciting 10-week internship, where I will be working on cutting-edge projects and gaining invaluable industry experience.
