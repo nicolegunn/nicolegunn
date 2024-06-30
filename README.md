@@ -17,8 +17,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Azure Vision AI](https://img.shields.io/badge/Azure%20Vision%20AI-Integrated-blue?style=flat-square)
-![Google AI](https://img.shields.io/badge/Google%20AI-ML%20Services-orange?style=flat-square)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure%20Cognitive%20Services-Vision-blue?style=flat-square)
+![Google Cloud AI](https://img.shields.io/badge/Google%20Cloud%20AI-ML-orange?style=flat-square)
 
 ## About Me
 
