@@ -56,8 +56,6 @@ I am about to start on an exciting 10-week internship, where I will be working o
 - Daily scrum meetings and task tracking using Jira
 - Collaboration with UX designers for design feedback and clarifications
 
-## Notable Projects
-
 ## Get in Touch
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
