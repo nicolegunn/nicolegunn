@@ -22,6 +22,8 @@
 
 Hi there! I'm a career changer who has completed a Full Stack Developer course with Mission Ready and am nearing the completion of Mission Ready's Advanced Full Stack Developer Course, which focuses on DevOps, cloud computing and AI. I have a background in property and finance, holding degrees from the University of Auckland.
 
+I currently live in Auckland, New Zealand.
+
 I am passionate about web development, particularly in building robust and scalable applications using JavaScript, Node.js, React, and MongoDB. I have experience with CI/CD pipelines, cloud deployments using Azure and integrating AI into my projects.
 
 ## Connect with Me
