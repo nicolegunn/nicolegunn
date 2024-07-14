@@ -1,4 +1,4 @@
-![Animated Banner](https://github.com/nicolegunn/nicolegunn/raw/main/github-banner-blue.gif)
+![Animated Banner](https://github.com/nicolegunn/nicolegunn/raw/main/github-banner-transparent.gif)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
