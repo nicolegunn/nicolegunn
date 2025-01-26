@@ -26,10 +26,10 @@
 
 ## About Me
 
-Hi there! I'm a full stack developer, based in Auckland, New Zealand, currently working for [!Checkmate](https://www.checkmate.tech/).
+Hi there! I'm a full stack developer, based in Auckland, New Zealand, currently working for [Checkmate](https://www.checkmate.tech/).
 
-I am passionate about web development, particularly in building robust and scalable applications. 
-Predominantly working with PHP, Python and React in my current role. 
+I am passionate about software development, particularly in automating backend processes. 
+I'm predominantly working with PHP, Python and React in my current role. 
 
 ## Connect with Me
 
