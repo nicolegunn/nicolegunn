@@ -7,6 +7,8 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -24,44 +26,26 @@
 
 ## About Me
 
-Hi there! I'm a career changer who has completed an Advanced Full Stack Developer Course with Mission Ready, which focuses on DevOps, cloud computing and AI. I have a background in property and finance, holding degrees from the University of Auckland.
-
-I currently live in Auckland, New Zealand.
+Hi there! I'm a full stack developer, based in Auckland, New Zealand, currently working for [!Checkmate](https://www.checkmate.tech/).
 
 I am passionate about web development, particularly in building robust and scalable applications. 
-I have experience with CI/CD pipelines, cloud deployments using Azure and integrating AI into my projects.
+Predominantly working with PHP, Python and React in my current role. 
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-gunn-web-dev/)
 
-## Current Projects
-
-I have started an exciting 10-week internship with [Tressel](https://www.tressel.co.nz/), where I will be working on cutting-edge projects and gaining invaluable industry experience.
 
 ## Skills and Technologies
 
-- **Languages**: JavaScript (ES6+), TypeScript
+- **Languages**: PHP, JavaScript (ES6+), TypeScript
 - **Frontend**: React, Next.js, HTML, CSS, Tailwind
-- **Backend**: Node.js, Express.js, Next.js
+- **Backend**: PHP, Node.js, Express.js, Next.js
 - **Databases**: MongoDB, MySQL
-- **DevOps**: CI/CD, Azure, Docker
+- **DevOps**: CI/CD, AWS, Azure, Docker
 - **Tools**: Git, GitHub, Postman, Jira, Figma
 
-## Currently Learning
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-- **Cloud Services**: AWS
-
-## Experience with Agile Practices
-
-- Daily scrum meetings and task tracking using Jira
-- Collaboration with UX designers for design feedback and clarifications
-
 ## Get in Touch
-
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-gunn-web-dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolegunn)
